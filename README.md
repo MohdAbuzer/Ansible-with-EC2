@@ -19,11 +19,6 @@ In dynamic cloud environments, efficient infrastructure management is crucial. T
 
 1. Clone the repository:
 
-   ```sh
-   git clone https://github.com/MohdAbuzer/Jenkins_CICD_with_ArgoCD.git
-   cd Jenkins_CICD_with_ArgoCD
-   ```
-
 2. Install the necessary Ansible collections:
 
    ```sh
